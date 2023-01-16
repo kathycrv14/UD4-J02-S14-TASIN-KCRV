@@ -1,0 +1,13 @@
+h1{
+    color:royalblue;
+}
+
+.form-group{
+    padding-bottom: 1rem;
+}
+
+.sectionForm{
+    border: 1px solid;
+    border-color: rgb(27, 97, 158);
+    padding: 1rem;
+}
